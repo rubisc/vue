@@ -6,7 +6,7 @@
 ### Getting Started
 
 #### Why Use Vue?
-Vue is a simplistic, lightweight library that is recommended when frameworks like Angular offer more than what is necessary for a single-page application. Part of the beauty of vue is its simplicity; it does not require much configuration with webpack, etc.--you simply insert the script tag into your code and you're ready to use the Vue library. You can even use vue on its on without jQuery! Unlike some of the frameworks we have worked with in the past, (aka Rails), this library is not opinionated. This is a great option to use when a small, portable, and fast app. Check out its speed in comparison to React:
+Vue is a simplistic, lightweight library that is recommended when frameworks like Angular offer more than what is necessary for a single-page application. Part of the beauty of vue is its simplicity; it is designed to be adoptable and does not require much configuration with webpack, etc.--you simply insert the script tag into your code and you're ready to use the Vue library. You can even use vue on its on without jQuery! Unlike some of the frameworks we have worked with in the past, (aka Rails), this library is not opinionated. This is a great option to use when a small, portable, and fast app. Check out its speed in comparison to React:
 
 ![vue_speed](./app/assets/images/vue_speed.png)
 
